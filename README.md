@@ -1,6 +1,6 @@
 # PianoTilesBoot
 
-*PianoTilesBoot* is an script/application that plays [Piano Tiles 2](https://play.google.com/store/apps/details?id=com.cmplay.tiles2). This project is still under development.
+*PianoTilesBoot* is a script/application that plays [Piano Tiles 2](https://play.google.com/store/apps/details?id=com.cmplay.tiles2). This project is still under development.
 
 Getting Started
 ---------------
