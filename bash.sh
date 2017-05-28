@@ -3,14 +3,21 @@
 #chmod +x /path/to/bash.sh
 #/path/to/bash.sh
 
+#must be set to screen width
 let width=720;
+#must be set to screen height
 let height=1280;
 
+#let b1 = $width/8
 let b1=90
+#let b2 = $width/8 + $width/4
 let b2=270
+#let b3 = $width/8 + $width/4 + $width/4
 let b3=450
+#let b4 = $width/8 + $width/4 + $width/4 + $width/4
 let b4=630
 
+#thanks to https://stackoverflow.com/a/24583529
 while true
 do
 	/system/bin/screencap /storage/emulated/0/Download/img.dump
