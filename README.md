@@ -9,12 +9,12 @@ Getting Started
 There are The're two ways to run *PianoTilesBoot*
 
  - Using Java code; run from Android application.
- - Using `[bash.sh](https://github.com/abozanona/PianoTilesBoot/blob/master/bash.sh)` file; type from adb:
+ - Using [bash.sh](https://github.com/abozanona/PianoTilesBoot/blob/master/bash.sh) file; type from adb:
 
 ```
 su
 cat > /storage/emulated/0/Download/bash.sh
-#store [bash.sh](https://github.com/abozanona/PianoTilesBoot/blob/master/bash.sh) file contents in /storage/emulated/0/Download/bash.sh or any other accessible directory.
+#store bash.sh file contents in /storage/emulated/0/Download/bash.sh or any other accessible directory.
 ```
 
 
